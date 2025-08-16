@@ -1,0 +1,15 @@
+#!/bin/bash
+
+
+# This is motilal ki duniya
+
+<< comment
+
+Anything
+written
+here will not be execute
+comment
+
+name="jetha"
+
+echo
